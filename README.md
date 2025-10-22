@@ -5,3 +5,5 @@
 
 **Scaling Novel View Synthesis for Static and Dynamic Scenes**
 ---
+Train and Inference with Ascend 910b NPU
+Torch.NPU is required。
