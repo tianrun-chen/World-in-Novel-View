@@ -5,11 +5,9 @@
 
 **Scaling Novel View Synthesis for Static and Dynamic Scenes**
 <div align="center">
-![Static Scene 1](im1.gif)
-![Dynamic Scene 1](im2.gif)
-![NVS Results](im3.gif)
-
+(im3.gif)
 </div>
+
 - **Distributed Training**: FSDP and DDP support for large-scale training
 - **Mixed Precision**: Automatic mixed precision (AMP) for faster training
 ---
