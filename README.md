@@ -37,10 +37,10 @@ Torch.NPU is required。
 ### Training
 
 ```bash
-# Single GPU training
+# Single NPU training
 python -m src.main konet
 
-# Multi-GPU training with FSDP
+# Multi-NPU training with FSDP
 torchrun --standalone --nproc-per-node=4 -m src.main konet-fsdp
 ```
 
