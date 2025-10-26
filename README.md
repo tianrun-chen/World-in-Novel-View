@@ -5,14 +5,8 @@
 
 **Scaling Novel View Synthesis for Static and Dynamic Scenes**
 <div align="center">
-
-### Static Scene Examples
 ![Static Scene 1](im1.gif)
-
-### Dynamic Scene Examples
 ![Dynamic Scene 1](im2.gif)
-
-### Novel View Synthesis Results
 ![NVS Results](im3.gif)
 
 </div>
