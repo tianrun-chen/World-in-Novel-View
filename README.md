@@ -4,7 +4,18 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
 **Scaling Novel View Synthesis for Static and Dynamic Scenes**
+<div align="center">
 
+### Static Scene Examples
+![Static Scene 1](im1.gif)
+
+### Dynamic Scene Examples
+![Dynamic Scene 1](im2.gif)
+
+### Novel View Synthesis Results
+![NVS Results](im3.gif)
+
+</div>
 - **Distributed Training**: FSDP and DDP support for large-scale training
 - **Mixed Precision**: Automatic mixed precision (AMP) for faster training
 ---
