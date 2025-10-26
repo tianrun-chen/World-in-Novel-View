@@ -5,7 +5,8 @@
 
 **Scaling Novel View Synthesis for Static and Dynamic Scenes**
 <div align="center">
-(im3.gif)
+[(im3.gif)](https://github.com/tianrun-chen/World-in-Novel-View/blob/main/im3.gif)
+  
 </div>
 
 - **Distributed Training**: FSDP and DDP support for large-scale training
